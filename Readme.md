@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/ScatterLineWithCustomFunction/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ScatterLineWithCustomFunction/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to draw a custom function in the 2D Scatter Line chart  
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3702)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to draw an Archimedian Spiral function in the 2D Scatter Line chart. </p><br />
